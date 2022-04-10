@@ -1,13 +1,16 @@
 {
   "resources": [
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":5,},
+    {"id":{"name":"control_battle","path":"objects/control_battle/control_battle.yy",},"order":8,},
     {"id":{"name":"portal","path":"sprites/portal/portal.yy",},"order":4,},
+    {"id":{"name":"character","path":"objects/character/character.yy",},"order":9,},
     {"id":{"name":"idol","path":"sprites/idol/idol.yy",},"order":2,},
     {"id":{"name":"lvlUP","path":"objects/lvlUP/lvlUP.yy",},"order":2,},
     {"id":{"name":"weapon","path":"objects/weapon/weapon.yy",},"order":4,},
     {"id":{"name":"playerObj","path":"objects/playerObj/playerObj.yy",},"order":0,},
     {"id":{"name":"hammer","path":"sprites/hammer/hammer.yy",},"order":1,},
     {"id":{"name":"room_level1","path":"rooms/room_level1/room_level1.yy",},"order":1,},
+    {"id":{"name":"enemyObj","path":"objects/enemyObj/enemyObj.yy",},"order":10,},
     {"id":{"name":"blacksmith","path":"objects/blacksmith/blacksmith.yy",},"order":3,},
     {"id":{"name":"claymore","path":"objects/claymore/claymore.yy",},"order":6,},
     {"id":{"name":"room_battle","path":"rooms/room_battle/room_battle.yy",},"order":2,},
