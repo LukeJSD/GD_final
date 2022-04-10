@@ -17,6 +17,7 @@
     {"id":{"name":"braodsword","path":"objects/braodsword/braodsword.yy",},"order":5,},
     {"id":{"name":"katana","path":"objects/katana/katana.yy",},"order":7,},
     {"id":{"name":"transport","path":"objects/transport/transport.yy",},"order":1,},
+    {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":9,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
