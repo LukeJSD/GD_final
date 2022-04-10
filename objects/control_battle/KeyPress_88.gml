@@ -1,5 +1,8 @@
 /// @description heavy attack
 // You can write your code in this editor
+
+alarm_get(0);
+
 roll = random(current_time)%20 + 1;
 hit = roll + playerObj.dexterity;
 if (roll == 20 || hit >= 10 + enemyObj.armor_mod + enemyObj.dexterity + enemyObj.strength) {

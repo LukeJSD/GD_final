@@ -12,3 +12,5 @@ if (roll == 20 || hit >= 10 + enemyObj.armor_mod + enemyObj.dexterity + enemyObj
 	damage = int64(damage*0.75);	// light attack damage reduction
 	enemyObj.hp -= (roll==20) ? 2*damage : damage;
 }
+
+alarm_get(0);
